@@ -18,25 +18,24 @@ color:white;
 width : 30%;
 text-align: center;
 margin-top: 5%;
-margin-right: auto;
 margin-left: auto;
+margin-right: auto;
 
 }
 .imagec
 {
-height: 400px; 
-width:auto;
-display: block;
-margin-left:75%;
-margin-top: -30%;
+width: 25%;
+margin-left:73%;
+position: absolute;
+top: 30%;
+
 }
 .imagec1
 {
-height: 400px; 
-width:auto;
-display: block;
-margin-left:0%;
-margin-top: -21%;
+width: 30%;
+margin-left:1%;
+position: absolute;
+top: 30%;
 }
 .btn {
 font-family:sans-serif;
@@ -49,7 +48,7 @@ color: #3e8c32;
 cursor: pointer;
 transition : 0.8s;
 position:relative;
-top:200px;
+top:50px;
 
 overflow: hidden;
 }
@@ -57,3 +56,5 @@ overflow: hidden;
 .btn:hover{
 color:white;
 }
+
+
